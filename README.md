@@ -1,8 +1,8 @@
 ### Bem-vindo(a) ao meu perfil  👋 
   <div>  
    <a href="https://github.com/sirlan-lobato"> 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirlan-lobato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirlan-lobato&layout=compact&langs_count=6&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirlan-lobato&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirlan-lobato&layout=compact&langs_count=6&theme=radical"/>
 
 </div>
 <div style="display: inline_block"><br>
